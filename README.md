@@ -5,7 +5,7 @@
 <li>Python 2</li>
 
 </ul>
-  <img src="./img/Java/clientServer.png" alt="">
+  <img src="https://github.com/Oishee30/Robo-Mos-Face-Detector/blob/master/clientServer.png" alt="">
 			  <h3">Features</h3>
                              <ul> 
 <li>Personal User Account Using Face Recognition</li>
